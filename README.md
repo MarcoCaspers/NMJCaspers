@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NMJCaspers.
+- 👋 Hi, I’m Marco
 - 👀 I’m interested in programming.
 
 I'm currently into compilers and interpreters.
